@@ -8,6 +8,8 @@ This list is partially inspired by [awesome-selfhosted](https://github.com/aweso
 
 Contributions are always appreciated, check the [Contributing](#contributing) section for more details!
 
+*This list is only for free software. For others, check out [Extras](EXTRAS.md).*
+
 ## Table of Contents
 
 * [Contents](#contents)
@@ -120,7 +122,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Battlestate Games.
 
 * 🟩 [Single Player Tarkov](https://github.com/sp-tarkov/server) `TypeScript/NCSA`
-    * 🟩 [C# Rewrite](https://github.com/sp-tarkov/server-csharp) `C#/CC-BY-NC-SA-4.0`
+* 🟩 [Single Player Tarkov (C# Rewrite)](https://github.com/sp-tarkov/server-csharp) `C#/CC-BY-NC-SA-4.0`
 
 ---
 
@@ -139,8 +141,10 @@ Different server implementations will be categorized by the games that they're u
 > Developed by miHoYo. Published by miHoYo in China and HoYoverse worldwide.
 
 * 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) `Java/AGPL-3.0`
+    * 🟧 [Grasscutter-Quests](https://github.com/Anime-Game-Servers/Grasscutter-Quests)
     * 🟧 [LunaGC](https://github.com/pmagixc/LunaGC)
 * 🟩 [KazusaGI_cb2](https://github.com/Hiro420/KazusaGI_cb2) `C#/MIT`
+* 🟥 [hk4e-go](https://github.com/Kei-Luna/hk4e-go) `Go/Apache-2.0`
 
 ---
 
@@ -162,7 +166,6 @@ Different server implementations will be categorized by the games that they're u
     * 🟩 [HyacineDH](https://github.com/DBKAHHK/HyacineDH)
 * 🟥 [LunarCore](https://github.com/Melledy/LunarCore) `Java/AGPL-3.0`
 * 🟩 [YaoGuangSR](https://git.xeondev.com/HonkaiSlopRail/yaoguang-sr) `Zig/ARR`
-* 🟩 [CastoricePS](https://github.com/DBKAHHK/SR-CasPS) `Zig/GPL-3.0`
 
 ---
 
@@ -183,7 +186,8 @@ Different server implementations will be categorized by the games that they're u
 > Developed by ppy and the osu! development team. 
 
 * 🟩 [Sunrise](https://github.com/SunriseCommunity/Sunrise) `C#/MIT`
-* 🟩 [bancho.py](https://github.com/osuAkatsuki/bancho.py) `Python/MIT`
+* 🟧 [bancho.py](https://github.com/osuAkatsuki/bancho.py) `Python/MIT`
+    * 🟩 [bancho.py-ex](https://github.com/osu-NoLimits/bancho.py-ex)
 * 🟩 [Titanic](https://github.com/osuTitanic/titanic) `Python/MIT`
 
 ---
