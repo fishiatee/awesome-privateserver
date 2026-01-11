@@ -254,7 +254,8 @@ All entries **must** satisfy all of the following requirements in order to be ac
 * They must be free to access with source code publicly available
 * They must be ***unofficial*** server implementations (modified versions of official server software will not be accepted)
 * They must have at the very least *some* degree of functionality (for example, walking simulators will not be accepted.)
-* In case of new game addition(s), make sure they are positioned alphabetically
+
+If something does not meet all of the above requirements, but hold enough significance to warrant its addition to this list, it may be added to the [Extras](EXTRAS.md) list.
 
 When adding entries, you should reference how existing ones are written to ensure consistency and accuracy.
 

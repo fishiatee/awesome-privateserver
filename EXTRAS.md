@@ -20,4 +20,4 @@ Please refer to the main list for more details.
 > [!NOTE]
 > Developed and published by Ubisoft. This game had reached End of Service since March 2024.
 
-* 🟩 [The Crew Unlimited](https://thecrewunlimited.com/home/)
+* 🟩 [The Crew Unlimited](https://thecrewunlimited.com/home/) `Closed Source`
