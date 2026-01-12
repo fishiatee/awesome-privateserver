@@ -250,13 +250,17 @@ Different server implementations will be categorized by the games that they're u
 
 You can contribute to this list by adding new entries to it, correcting mistakes, or simply just tidying things up. 
 
-All entries **must** satisfy all of the following requirements in order to be accepted:
+The goal of this list is to become a comprehensive catalog of everything private server related, however there are some standards for software to be accepted, notably:
 * They must be free to access with source code publicly available
-* They must be ***unofficial*** server implementations (modified versions of official server software will not be accepted)
-* They must have at the very least *some* degree of functionality (for example, walking simulators will not be accepted.)
+* They must be **unofficial** server implementations
+* They must at the very least have some degree of functionality (e.g., partial or full reimplementation of core mechanics)
 
-If something does not meet all of the above requirements, but hold enough significance to warrant its addition to this list, it may be added to the [Extras](EXTRAS.md) list.
+In short, the main list prioritizes quality software that is reputable, feature-rich and well-documented.
+
+Barebones, closed source, and/or rebranded projects are likely to not be accepted into this list as to not bloat it. If one or more projects hold enough significance to warrant their addition, they may be considered to be added to the [Extras](EXTRAS.md) list instead.
+
+Paid and/or gatekept software will never be accepted.
 
 When adding entries, you should reference how existing ones are written to ensure consistency and accuracy.
 
-Feel free to open a pull request!
+If you want to suggest anything, feel free to [create an issue](https://github.com/fishiatee/awesome-privateserver/issues/new); or better yet, [open a pull request](https://github.com/fishiatee/awesome-privateserver/compare)!
