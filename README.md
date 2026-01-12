@@ -12,8 +12,9 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
 
 ## Table of Contents
 
-* [Contents](#contents)
-* [Games](#games)
+* [Contents](#contents) - basic details
+* [General](#general) - game-agnostic software
+* [Games](#games) - software for specific games
     * [Among Us (2018)](#among-us-2018)
     * [Arcaea (2017)](#arcaea-2017)
     * [Arknights (2019)](#arknights-2019)
@@ -34,7 +35,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Stella Sora (2025)](#stella-sora-2025)
     * [Wuthering Waves (2024)](#wuthering-waves-2024)
     * [Zenless Zone Zero (2024)](#zenless-zone-zero-2024)
-* [Contributing](#contributing)
+* [Contributing](#contributing) - appreciate it!
 
 ## Contents
 
@@ -48,6 +49,10 @@ Different server implementations will be categorized by the games that they're u
 
 > [!CAUTION]
 > This list does not seek to provide guidance on how to properly utilize one or any software listed, nor does it guarantee that said software is operational. The writers of this list are not affiliated or in any way associated with any listed projects. Use any software listed here at your own risk.
+
+## General
+
+* 🟩 [Pretendo](https://github.com/PretendoNetwork) `Multiple languages/AGPL-3.0` - Open source Nintendo Network replacement servers for the WiiU and 3DS
 
 ## Games
 
