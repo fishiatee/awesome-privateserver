@@ -251,6 +251,15 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟩 [Yoshunko](https://git.xeondev.com/yoshunko/yoshunko) `Zig/AGPL-3.0`
 
+---
+
+### World Flipper (2019)
+
+> [!NOTE]
+> Developed and published by Cygames. This game had reached End of Service since July 2024.
+
+* 🟥 [Starpoint](https://github.com/duosii/starpoint) `TypeScript/GPL-3.0`
+
 ## Contributing
 
 You can contribute to this list by adding new entries to it, correcting mistakes, or simply just tidying things up. 
