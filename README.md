@@ -35,6 +35,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Stella Sora (2025)](#stella-sora-2025)
     * [Wuthering Waves (2024)](#wuthering-waves-2024)
     * [Zenless Zone Zero (2024)](#zenless-zone-zero-2024)
+    * [World Flipper (2019)](#world-flipper-2019)
 * [Contributing](#contributing) - appreciate it!
 
 ## Contents
