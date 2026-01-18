@@ -98,7 +98,7 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide. 
 
-* 🟥 [Belfast](https://github.com/ggmolly/belfast) `Go/GPL-3.0`
+* 🟩 [Belfast](https://github.com/ggmolly/belfast) `Go/GPL-3.0`
 
 ---
 
