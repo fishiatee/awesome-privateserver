@@ -18,7 +18,6 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Among Us (2018)](#among-us-2018)
     * [Arcaea (2017)](#arcaea-2017)
     * [Arknights (2019)](#arknights-2019)
-    * [Arknights: Endfield (upcoming)](#arknights-endfield-upcoming)
     * [Azur Lane (2017)](#azur-lane-2017)
     * [Blue Archive (2021)](#blue-archive-2021)
     * [Dragalia Lost (2018)](#dragalia-lost-2018)
@@ -81,15 +80,6 @@ Different server implementations will be categorized by the games that they're u
 > Developed by Hypergryph. Published by Hypergryph in China, Gryphline in Taiwan, and Yostar worldwide.
 
 * 🟧 [OpenDoctoratePy](https://github.com/jiellll1219/OpenDoctoratePy-EX-Public) `Python/GPL-3.0`
-
----
-
-### Arknights: Endfield (upcoming)
-
-> [!NOTE]
-> Developed by Hypergryph. Published by Gryphline.
-
-* 🟩 [Campofinale](https://git.teamstardust.org/Campofinale/Campofinale) `C#/ARR`
 
 ---
 
