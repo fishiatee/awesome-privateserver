@@ -18,7 +18,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Among Us (2018)](#among-us-2018)
     * [Arcaea (2017)](#arcaea-2017)
     * [Arknights (2019)](#arknights-2019)
-    * [Arknights: Endfield (2025)](#arknights-endfield-2025)
+    * [Arknights: Endfield (2026)](#arknights-endfield-2026)
     * [Azur Lane (2017)](#azur-lane-2017)
     * [Blue Archive (2021)](#blue-archive-2021)
     * [Dragalia Lost (2018)](#dragalia-lost-2018)
