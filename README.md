@@ -148,7 +148,7 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) `Java/AGPL-3.0`
     * 🟧 [Grasscutter-Quests](https://github.com/Anime-Game-Servers/Grasscutter-Quests)
-    * 🟧 [LunaGC](https://github.com/pmagixc/LunaGC)
+    * 🟥 [LunaGC](https://github.com/pmagixc/LunaGC)
 * 🟩 [KazusaGI_cb2](https://github.com/Hiro420/KazusaGI_cb2) `C#/MIT`
 * 🟥 [hk4e-go](https://github.com/Kei-Luna/hk4e-go) `Go/Apache-2.0`
 
@@ -171,6 +171,7 @@ Different server implementations will be categorized by the games that they're u
 * 🟥 [DanhengServer](https://github.com/EggLinks/DanhengServer-OpenSource) `C#/AGPL-3.0` ([available fork](https://github.com/DB-Sky/DanhengServer-OpenSource))
     * 🟥 [HyacineDH-3.8](https://github.com/DBKAHHK/HyacineDH-3.8)
     * 🟩 [HyacineDH-Core](https://github.com/DBKAHHK/HyacineDH-Core)
+* 🟩 [KazusaHSR_0.56](https://github.com/Hiro420/KazusaHSR_0.56) `C#/AGPL-3.0`
 * 🟥 [LunarCore](https://github.com/Melledy/LunarCore) `Java/AGPL-3.0`
 * 🟩 [YaoGuangSR](https://git.xeondev.com/HonkaiSlopRail/yaoguang-sr) `Zig/ARR`
 
