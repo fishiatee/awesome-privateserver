@@ -84,7 +84,7 @@ Different server implementations will be categorized by the games that they're u
 
 ---
 
-### Arknights: Endfield (2025)
+### Arknights: Endfield (2026)
 
 > [!NOTE]
 > Developed by Hypergryph. Published by Hypergryph in China, Ariel in Taiwan, Hong Kong and Macau, and Gryphline worldwide.
