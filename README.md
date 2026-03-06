@@ -18,6 +18,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Among Us (2018)](#among-us-2018)
     * [Arcaea (2017)](#arcaea-2017)
     * [Arknights (2019)](#arknights-2019)
+    * [Arknights: Endfield (2025)](#arknights-endfield-2025)
     * [Azur Lane (2017)](#azur-lane-2017)
     * [Blue Archive (2021)](#blue-archive-2021)
     * [Dragalia Lost (2018)](#dragalia-lost-2018)
@@ -52,7 +53,7 @@ Different server implementations will be categorized by the games that they're u
 
 ## General
 
-* 🟩 [Pretendo](https://github.com/PretendoNetwork) `Multiple languages/AGPL-3.0` - Open source Nintendo Network replacement servers for the WiiU and 3DS
+* 🟩 [Pretendo](https://github.com/PretendoNetwork) `Multiple languages/AGPL-3.0` - Open source Nintendo Network replacement server for the WiiU and 3DS
 
 ## Games
 
@@ -79,7 +80,16 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by Hypergryph. Published by Hypergryph in China, Gryphline in Taiwan, and Yostar worldwide.
 
-* 🟧 [OpenDoctoratePy](https://github.com/jiellll1219/OpenDoctoratePy-EX-Public) `Python/GPL-3.0`
+* 🟥 [OpenDoctoratePy](https://github.com/jiellll1219/OpenDoctoratePy-EX-Public) `Python/GPL-3.0`
+
+---
+
+### Arknights: Endfield (2025)
+
+> [!NOTE]
+> Developed by Hypergryph. Published by Hypergryph in China, Ariel in Taiwan, Hong Kong and Macau, and Gryphline worldwide.
+
+* 🟩 [S](https://git.xeondev.com/LR/S) `Zig/AGPL-3.0`
 
 ---
 
@@ -118,7 +128,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Battlestate Games.
 
 * 🟩 [Single Player Tarkov](https://github.com/sp-tarkov/server) `TypeScript/NCSA`
-* 🟩 [Single Player Tarkov (C# Rewrite)](https://github.com/sp-tarkov/server-csharp) `C#/CC-BY-NC-SA-4.0`
+    * 🟩 [C# Rewrite](https://github.com/sp-tarkov/server-csharp) `C#/CC-BY-NC-SA-4.0`
 
 ---
 
@@ -158,8 +168,9 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by miHoYo. Published by miHoYo in China, Nijigen Games in Taiwan, Hong Kong and Macau, 3T Online in Vietnam, and HoYoverse worldwide.
 
-* 🟧 [DanhengServer](https://github.com/EggLinks/DanhengServer-OpenSource) `C#/AGPL-3.0`
-    * 🟩 [HyacineDH](https://github.com/DBKAHHK/HyacineDH)
+* 🟥 [DanhengServer](https://github.com/EggLinks/DanhengServer-OpenSource) `C#/AGPL-3.0` ([available fork](https://github.com/DB-Sky/DanhengServer-OpenSource))
+    * 🟥 [HyacineDH-3.8](https://github.com/DBKAHHK/HyacineDH-3.8)
+    * 🟩 [HyacineDH-Core](https://github.com/DBKAHHK/HyacineDH-Core)
 * 🟥 [LunarCore](https://github.com/Melledy/LunarCore) `Java/AGPL-3.0`
 * 🟩 [YaoGuangSR](https://git.xeondev.com/HonkaiSlopRail/yaoguang-sr) `Zig/ARR`
 
