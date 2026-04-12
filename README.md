@@ -21,6 +21,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Arknights: Endfield (2026)](#arknights-endfield-2026)
     * [Azur Lane (2017)](#azur-lane-2017)
     * [Blue Archive (2021)](#blue-archive-2021)
+    * [Command & Conquer: Red Alert (1996)](#command--conquer-red-alert-1996)
     * [Dragalia Lost (2018)](#dragalia-lost-2018)
     * [Escape from Tarkov (2025)](#escape-from-tarkov-2025)
     * [Goddess of Victory: Nikke (2022)](#goddess-of-victory-nikke-2022)
@@ -31,11 +32,13 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [osu! (2007)](#osu-2007)
     * [OverField (2025)](#overfield-2025)
     * [Punishing: Gray Raven (2019)](#punishing-gray-raven-2019)
+    * [Ragnarok Online (2002)](#ragnarok-online-2002)
     * [Reverse: 1999 (2023)](#reverse-1999-2023)
     * [Stella Sora (2025)](#stella-sora-2025)
     * [Wuthering Waves (2024)](#wuthering-waves-2024)
     * [Zenless Zone Zero (2024)](#zenless-zone-zero-2024)
     * [World Flipper (2019)](#world-flipper-2019)
+    * [World of Warcraft (2004)](#world-of-warcraft-2004)
 * [Contributing](#contributing) - appreciate it!
 
 ## Contents
@@ -109,6 +112,15 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [Atrahasis (archived)](https://archive.org/details/Atrahasis) `C#/ARR`
 * 🟥 [BaPs](https://github.com/gucooing/BaPs) `Go/ARR`
+
+---
+
+### Command & Conquer: Red Alert (1996)
+
+> [!NOTE]
+> Developed and published by Westwood Studios (now Electronic Arts).
+
+* 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) `C#/GPL-3.0`
 
 ---
 
@@ -220,6 +232,15 @@ Different server implementations will be categorized by the games that they're u
 
 ---
 
+### Ragnarok Online (2002)
+
+> [!NOTE]
+> Developed and published by Gravity.
+
+* 🟩 [rAthena](https://github.com/rathena/rathena) `C/GPL-3.0`
+
+---
+
 ### Reverse: 1999 (2023)
 
 > [!NOTE]
@@ -263,6 +284,17 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [Starpoint](https://github.com/duosii/starpoint) `TypeScript/GPL-3.0`
 
+
+### World of Warcraft (2004)
+
+> [!NOTE]
+> Developed and published by Blizzard Entertainment.
+
+* 🟩 [TrinityCore](https://github.com/TrinityCore/TrinityCore) `C++/GPL-2.0`
+* 🟩 [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) `C++/GPL-2.0`
+* 🟩 [C-MaNGOS](https://github.com/cmangos/mangos-wotlk) `C++/GPL-2.0` (WotLK branch)
+
+---
 ## Contributing
 
 You can contribute to this list by adding new entries to it, correcting mistakes, or simply just tidying things up. 
