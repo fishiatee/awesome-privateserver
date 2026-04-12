@@ -237,7 +237,7 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed and published by Gravity.
 
-* 🟩 [rAthena](https://github.com/rathena/rathena) `C/GPL-2.0`
+* 🟩 [rAthena](https://github.com/rathena/rathena) `C/GPL-3.0`
 
 ---
 
@@ -291,8 +291,8 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Blizzard Entertainment.
 
 * 🟩 [TrinityCore](https://github.com/TrinityCore/TrinityCore) `C++/GPL-2.0`
-* 🟩 [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) `C++/AGPL-3.0`
-* 🟩 [MaNGOS](https://github.com/mangos/mangos) `C++/GPL-2.0`
+* 🟩 [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) `C++/GPL-2.0`
+* 🟩 [C-MaNGOS](https://github.com/cmangos/mangos-wotlk) `C++/GPL-2.0` (WotLK branch)
 
 ---
 ## Contributing
