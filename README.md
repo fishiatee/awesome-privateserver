@@ -85,6 +85,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed by Hypergryph. Published by Hypergryph in China, Gryphline in Taiwan, and Yostar worldwide.
 
 * 🟥 [OpenDoctoratePy](https://github.com/jiellll1219/OpenDoctoratePy-EX-Public) `Python/GPL-3.0`
+* 🟧 [OpenBachelorS](https://github.com/pfyy/OpenBachelorS) `Python/ARR`
 
 ---
 
