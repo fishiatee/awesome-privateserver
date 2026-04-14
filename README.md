@@ -29,6 +29,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Honkai Impact 3rd (2016)](#honkai-impact-3rd-2016)
     * [Honkai: Star Rail (2023)](#honkai-star-rail-2023)
     * [Minecraft (2009)](#minecraft-2009)
+    * [NieR Re[in]carnation (2021)](#nier-reincarnation-2021)
     * [osu! (2007)](#osu-2007)
     * [OverField (2025)](#overfield-2025)
     * [Punishing: Gray Raven (2019)](#punishing-gray-raven-2019)
@@ -205,7 +206,7 @@ Different server implementations will be categorized by the games that they're u
 ### Minecraft (2009)
 
 > [!NOTE]
-> Developed and published by Mojang Studios. 
+> Developed and published by Mojang Studios.
 
 * 🟩 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) `Rust/MIT`
 * 🟩 [FerrumC](https://github.com/ferrumc-rs/ferrumc) `Rust/MIT`
@@ -213,10 +214,19 @@ Different server implementations will be categorized by the games that they're u
 
 ---
 
+### NieR Re[in]carnation (2021)
+
+> [!NOTE]
+> Developed by Applibot. Published by Square Enix. This game had reached End of Service since April 2024.
+
+* 🟩 [Lunar Tear](github.com/Walter-Sparrow/lunar-tear) `Go/MIT`
+
+---
+
 ### osu! (2007)
 
 > [!NOTE]
-> Developed by ppy and the osu! development team. 
+> Developed by ppy and the osu! development team.
 
 * 🟩 [Sunrise](https://github.com/SunriseCommunity/Sunrise) `C#/MIT`
 * 🟧 [bancho.py](https://github.com/osuAkatsuki/bancho.py) `Python/MIT`
