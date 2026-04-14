@@ -47,12 +47,12 @@ Different server implementations will be categorized by the games that they're u
 
 | Maintenance Status | Indicator | Description |
 | ------------------ | --------- | ----------- |
-| Active             | 🟩        | The software is being actively developed. |
-| Maintenance        | 🟧        | The software will not receive any new features. |
-| Abandoned          | 🟥        | The software is abandoned by its original developers. |
+| Active             | 🟩        | Actively being developed with new features. |
+| Maintenance        | 🟧        | Bug fixes only. |
+| Abandoned          | 🟥        | Archived or no new developments in a while. |
 
 > [!CAUTION]
-> This list does not seek to provide guidance on how to properly utilize one or any software listed, nor does it guarantee that said software is operational. The writers of this list are not affiliated or in any way associated with any listed projects. Use any software listed here at your own risk.
+> We do not aim to provide guidance on how to utilize any of the projects listed here. We are not in any way affiliated or associated with any of the listed projects.
 
 ## General
 
@@ -92,16 +92,27 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by Hypergryph. Published by Hypergryph in China, Ariel in Taiwan, Hong Kong and Macau, and Gryphline worldwide.
 
-* 🟩 [S](https://git.xeondev.com/LR/S) `Zig/AGPL-3.0`
+* 🟥 [S](https://git.xeondev.com/LR/S) `Zig/AGPL-3.0`
+* 🟩 [perlica-rs](https://github.com/Yoshk4e/perlica-rs) `Rust/AGPL-3.0`
 
 ---
 
 ### Azur Lane (2017)
 
 > [!NOTE]
-> Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide. 
+> Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide.
 
-* 🟩 [Belfast](https://github.com/ggmolly/belfast) `Go/GPL-3.0`
+* 🟧 [Belfast](https://github.com/ggmolly/belfast) `Go/GPL-3.0`
+
+---
+
+### Azur Promilia (2026)
+
+> [!NOTE]
+> Developed by Manjuu. Published by Yostar and Nexon. This game has not started official service yet.
+
+* 🟩 [AzurPromiliaPS](https://git.teamstardust.org/AzurPromilia/AzurPromiliaPS) `C#/ARR`
+* 🟩 [Zetsa](https://git.xeondev.com/zetsa/zetsa) `Zig/AGPL-3.0`
 
 ---
 
@@ -139,7 +150,7 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed and published by Battlestate Games.
 
-* 🟩 [Single Player Tarkov](https://github.com/sp-tarkov/server) `TypeScript/NCSA`
+* 🟥 [Single Player Tarkov](https://github.com/sp-tarkov/server) `TypeScript/NCSA`
     * 🟩 [C# Rewrite](https://github.com/sp-tarkov/server-csharp) `C#/CC-BY-NC-SA-4.0`
 
 ---
@@ -171,7 +182,7 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by miHoYo. Published by miHoYo in China, Nijigen Games in Taiwan, Hong Kong and Macau, Funtap in Vietnam, and HoYoverse worldwide.
 
-* 🟩 [KianaBH3](https://github.com/MikuLeaks/KianaBH3) `C#/ARR`
+* 🟥 [KianaBH3](https://github.com/MikuLeaks/KianaBH3) `C#/ARR`
 
 ---
 
@@ -184,8 +195,10 @@ Different server implementations will be categorized by the games that they're u
     * 🟥 [HyacineDH-3.8](https://github.com/DBKAHHK/HyacineDH-3.8)
     * 🟩 [HyacineDH-Core](https://github.com/DBKAHHK/HyacineDH-Core)
 * 🟩 [KazusaHSR_0.56](https://github.com/Hiro420/KazusaHSR_0.56) `C#/AGPL-3.0`
+* 🟩 [Eileen-SR](https://git.xeondev.com/eileen-sr/eileen-sr) `Zig/ARR`
 * 🟥 [LunarCore](https://github.com/Melledy/LunarCore) `Java/AGPL-3.0`
-* 🟩 [YaoGuangSR](https://git.xeondev.com/HonkaiSlopRail/yaoguang-sr) `Zig/ARR`
+* 🟥 [YaoGuangSR](https://git.xeondev.com/HonkaiSlopRail/yaoguang-sr) `Zig/ARR`
+    * 🟩 [EvanesciaSR](https://git.xeondev.com/HonkaiSlopRail/evanescia-sr)
 
 ---
 
@@ -209,6 +222,7 @@ Different server implementations will be categorized by the games that they're u
 * 🟧 [bancho.py](https://github.com/osuAkatsuki/bancho.py) `Python/MIT`
     * 🟩 [bancho.py-ex](https://github.com/osu-NoLimits/bancho.py-ex)
 * 🟩 [Titanic](https://github.com/osuTitanic/titanic) `Python/MIT`
+* 🟩 [g0v0-server](https://github.com/GooGuTeam/g0v0-server) `Python/AGPL-3.0`
 
 ---
 
@@ -229,6 +243,7 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [AscNet](https://github.com/rafi1212122/AscNet) `C#/ARR`
     * 🟥 [Lucia](https://github.com/yoncodes/Lucia)
+    * 🟩 [Active fork](https://github.com/Yentis/AscNet)
 
 ---
 
@@ -284,7 +299,6 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [Starpoint](https://github.com/duosii/starpoint) `TypeScript/GPL-3.0`
 
-
 ### World of Warcraft (2004)
 
 > [!NOTE]
@@ -295,21 +309,21 @@ Different server implementations will be categorized by the games that they're u
 * 🟩 [C-MaNGOS](https://github.com/cmangos/mangos-wotlk) `C++/GPL-2.0` (WotLK branch)
 
 ---
+
 ## Contributing
 
-You can contribute to this list by adding new entries to it, correcting mistakes, or simply just tidying things up. 
+There are multiple ways you can contribute: adding new project entries, correcting my mistakes, or simply just tidying things up.
 
-The goal of this list is to become a comprehensive catalog of everything private server related, however there are some standards for software to be accepted, notably:
-* They must be free to access with source code publicly available
-* They must be **unofficial** server implementations
-* They must at the very least have some degree of functionality (e.g., partial or full reimplementation of core mechanics)
+The goal of this list is to eventually become a comprehensive catalog of everything private server and online game revival project related. However, we want this to be a curated list of high quality software, so there are some requirements for projects to be accepted into the list, notably they:
 
-In short, the main list prioritizes quality software that is reputable, feature-rich and well-documented.
+* MUST have their source code in an easily accessible and reproducible form
+* MUST be **unofficial** implementations written from the ground up
+* MUST have *at least* some degree of functionality
 
-Barebones, closed source, and/or rebranded projects are likely to not be accepted into this list as to not bloat it. If one or more projects hold enough significance to warrant their addition, they may be considered to be added to the [Extras](EXTRAS.md) list instead.
+If one or more projects hold enough significance to warrant their addition, they may be considered to be added to the [Extras](EXTRAS.md) list instead.
 
-Paid and/or gatekept software will never be accepted.
+**We do not accept paid and/or gatekept projects, and you should not support such projects either.**
 
 When adding entries, you should reference how existing ones are written to ensure consistency and accuracy.
 
-If you want to suggest anything, feel free to [create an issue](https://github.com/fishiatee/awesome-privateserver/issues/new); or better yet, [open a pull request](https://github.com/fishiatee/awesome-privateserver/compare)!
+If you have any questions, feel free to [create an issue](https://github.com/fishiatee/awesome-privateserver/issues/new). If you have anything neat to add to the list, [open a pull request](https://github.com/fishiatee/awesome-privateserver/compare)!
