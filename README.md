@@ -219,7 +219,7 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by Applibot. Published by Square Enix. This game had reached End of Service since April 2024.
 
-* 🟩 [Lunar Tear](github.com/Walter-Sparrow/lunar-tear) `Go/MIT`
+* 🟩 [Lunar Tear](https://github.com/Walter-Sparrow/lunar-tear) `Go/MIT`
 
 ---
 
