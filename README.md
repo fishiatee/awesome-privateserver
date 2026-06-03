@@ -48,9 +48,9 @@ Different server implementations will be categorized by the games that they're u
 
 | Maintenance Status | Indicator | Description |
 | ------------------ | --------- | ----------- |
-| Active             | 🟩        | Actively being developed with new features. |
-| Maintenance        | 🟧        | Bug fixes only. |
-| Abandoned          | 🟥        | Archived or no new developments in a while. |
+| Active             | 🟩        | Actively developed.                         |
+| Maintenance-only   | 🟧        | Bug fixes only.                             |
+| Archived           | 🟥        | Discontinued.                               |
 
 > [!CAUTION]
 > We do not aim to provide guidance on how to utilize any of the projects listed here. We are not in any way affiliated or associated with any of the listed projects.
@@ -85,7 +85,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed by Hypergryph. Published by Hypergryph in China, Gryphline in Taiwan, and Yostar worldwide.
 
 * 🟥 [OpenDoctoratePy](https://github.com/jiellll1219/OpenDoctoratePy-EX-Public) `Python/GPL-3.0`
-* 🟧 [OpenBachelorS](https://github.com/pfyy/OpenBachelorS) `Python/ARR`
+* 🟩 [OpenBachelorS](https://github.com/pfyy/OpenBachelorS) `Python/ARR`
 
 ---
 
@@ -104,7 +104,7 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide.
 
-* 🟧 [Belfast](https://github.com/ggmolly/belfast) `Go/GPL-3.0`
+* 🟥 [Belfast](https://github.com/ggmolly/belfast) `Go/GPL-3.0`
 
 ---
 
@@ -113,8 +113,8 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by Manjuu. Published by Yostar and Nexon. This game has not started official service yet.
 
-* 🟩 [AzurPromiliaPS](https://git.teamstardust.org/AzurPromilia/AzurPromiliaPS) `C#/ARR`
-* 🟩 [Zetsa](https://git.xeondev.com/zetsa/zetsa) `Zig/AGPL-3.0`
+* 🟥 [AzurPromiliaPS](https://git.teamstardust.org/AzurPromilia/AzurPromiliaPS) `C#/ARR`
+* 🟥 [Zetsa](https://git.xeondev.com/zetsa/zetsa) `Zig/AGPL-3.0`
 
 ---
 
@@ -172,7 +172,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed by miHoYo. Published by miHoYo in China and HoYoverse worldwide.
 
 * 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) `Java/AGPL-3.0`
-    * 🟧 [Grasscutter-Quests](https://github.com/Anime-Game-Servers/Grasscutter-Quests)
+    * 🟩 [AGS-GC](https://github.com/Anime-Game-Servers/AGS-GC)
     * 🟥 [LunaGC](https://github.com/pmagixc/LunaGC)
 * 🟩 [KazusaGI_cb2](https://github.com/Hiro420/KazusaGI_cb2) `C#/MIT`
 * 🟥 [hk4e-go](https://github.com/Kei-Luna/hk4e-go) `Go/Apache-2.0`
@@ -185,6 +185,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed by miHoYo. Published by miHoYo in China, Nijigen Games in Taiwan, Hong Kong and Macau, Funtap in Vietnam, and HoYoverse worldwide.
 
 * 🟥 [KianaBH3](https://github.com/MikuLeaks/KianaBH3) `C#/ARR`
+* 🟩 [PemukulPaku](https://git.ely.my.id/MoleMole/PemukulPaku) `C#/ARR`
 
 ---
 
@@ -195,9 +196,10 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [DanhengServer](https://github.com/EggLinks/DanhengServer-OpenSource) `C#/AGPL-3.0` ([available fork](https://github.com/DB-Sky/DanhengServer-OpenSource))
     * 🟥 [HyacineDH-3.8](https://github.com/DBKAHHK/HyacineDH-3.8)
-    * 🟩 [HyacineDH-Core](https://github.com/DBKAHHK/HyacineDH-Core)
+    * 🟥 [HyacineDH-Core](https://github.com/DBKAHHK/HyacineDH-Core)
+    * 🟧 [March7thHoney](https://github.com/Mar7thLover/March7thHoney-OpenSource)
 * 🟩 [KazusaHSR_0.56](https://github.com/Hiro420/KazusaHSR_0.56) `C#/AGPL-3.0`
-* 🟩 [Eileen-SR](https://git.xeondev.com/eileen-sr/eileen-sr) `Zig/ARR`
+* 🟥 [Eileen-SR](https://git.xeondev.com/eileen-sr/eileen-sr) `Zig/ARR`
 * 🟥 [LunarCore](https://github.com/Melledy/LunarCore) `Java/AGPL-3.0`
 * 🟥 [YaoGuangSR](https://git.xeondev.com/HonkaiSlopRail/yaoguang-sr) `Zig/ARR`
     * 🟩 [EvanesciaSR](https://git.xeondev.com/HonkaiSlopRail/evanescia-sr)
@@ -254,7 +256,6 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [AscNet](https://github.com/rafi1212122/AscNet) `C#/ARR`
     * 🟥 [Lucia](https://github.com/yoncodes/Lucia)
-    * 🟩 [Active fork](https://github.com/Yentis/AscNet)
 
 ---
 
@@ -291,6 +292,8 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Kuro Games.
 
 * 🟥 [Wicked Waifus](https://git.xeondev.com/wickedwaifus/wicked-waifus-rs) `Rust/AGPL-3.0`
+* 🟩 [Zigrika](https://git.xeondev.com/WavyRooms/zigrika) `Zig/ARR`
+    * 🟩 [Noteworthy fork](https://git.xeondev.com/TheOrangeBee/zigrika-stuffthatsnotsmart)
 
 ---
 
