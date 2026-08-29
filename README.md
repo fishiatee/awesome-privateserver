@@ -191,7 +191,6 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) `Java/AGPL-3.0`
     * 🟩 [AGS-GC](https://github.com/Anime-Game-Servers/AGS-GC)
-    * 🟥 [LunaGC](https://github.com/pmagixc/LunaGC)
 * 🟩 [KazusaGI_cb2](https://github.com/Hiro420/KazusaGI_cb2) `C#/MIT`
 * 🟥 [hk4e-go](https://github.com/Kei-Luna/hk4e-go) `Go/Apache-2.0`
 
