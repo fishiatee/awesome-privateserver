@@ -328,6 +328,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Bluepoch.
 
 * 🟥 [sonetto-rs](https://github.com/Yoshk4e/sonetto-rs) `Rust/ARR`
+* 🟩 [enigma](https://github.com/yoncodes/enigma) `Rust`
 
 ---
 
