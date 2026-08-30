@@ -391,18 +391,42 @@ Different server implementations will be categorized by the games that they're u
 
 ## Contributing
 
-There are multiple ways you can contribute: adding new project entries, correcting my mistakes, or simply just tidying things up.
+There are multiple ways you can contribute: adding new project entries, correcting mistakes, or simply just tidying things up.
 
-The goal of this list is to eventually become a comprehensive catalog of everything private server and online game revival project related. However, we want this to be a curated list of high quality software, so there are some requirements for projects to be accepted into the list, notably they:
+The goal of this list is to eventually become a comprehensive catalog of online game revival and private server projects, with an emphasis on quality-over-quantity; therefore, please take those points into consideration.
 
-* MUST have their source code in an easily accessible and reproducible form
-* MUST be **unofficial** implementations written from the ground up
-* MUST have *at least* some degree of functionality
+### Pricing
 
-If one or more projects hold enough significance to warrant their addition, they may be considered to be added to the [Extras](EXTRAS.md) list instead.
+No projects in the list must require any form of payment in order to access and utilize (in other words, they must be free.)
 
-**We do not accept paid and/or gatekept projects, and you should not support such projects either.**
+### Source code availability
 
-When adding entries, you should reference how existing ones are written to ensure consistency and accuracy.
+All projects in the list must, at the very least, be distributed under a source-available license. Access to the source code must not require any further actions from the user, and the end user must be able to produce a functional version of the software from the provided source code.
 
-If you have any questions, feel free to [create an issue](https://github.com/fishiatee/awesome-privateserver/issues/new). If you have anything neat to add to the list, [open a pull request](https://github.com/fishiatee/awesome-privateserver/compare)!
+Projects licensed under [OSI-approved](https://opensource.org/licenses) licenses are and should be preferred where possible.
+
+### Cleanroom
+
+All projects in the list must be written using the [cleanroom approach](https://en.wikipedia.org/wiki/Clean-room_design).
+
+Essentially, with the exception of data files that the user is required to acquire by themselves, the server's logic must be entirely written from the ground up without relying on decompiled, leaked or otherwise proprietary code.
+
+#### AI generated code
+
+Usage of AI (or "agents") is controversial, but they can be useful especially when it comes to reverse engineering.
+
+Projects that use AI in any way will be reviewed on a case-by-case basis.
+
+Fully vibe-coded projects are likely to be rejected outright. Suppose they even work, their maintainer may not be able to maintain it themselves once access to AI is cut off. Exceptions can still be made depending on whether or not the maintainer really knows what they are doing.
+
+### Functionality
+
+All projects should, at the very least, have some degree of functionality implemented (in other words, the player should be able to do more than say staring at the login screen or walking around.)
+
+---
+
+If one or more projects hold enough significance to warrant their addition despite not fully meeting any of the above requirements, they may be considered to be added to the [Extras](EXTRAS.md) list instead.
+
+When adding new entries, please refer to how existing ones are written to ensure consistency and accuracy.
+
+If you have any questions, feel free to [create an issue](https://github.com/fishiatee/awesome-privateserver/issues/new). And once you got something neat going on, [open a pull request](https://github.com/fishiatee/awesome-privateserver/compare)!
