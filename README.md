@@ -32,7 +32,6 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Honkai: Star Rail (2023)](#honkai-star-rail-2023)
     * [Limbus Company (2023)](#limbus-company-2023)
     * [Love Live! School idol festival 2 MIRACLE LIVE! (2024)](#love-live-school-idol-festival-2-miracle-live-2024)
-    * [Mahjong Soul (2018)](#mahjong-soul-2018)
     * [Minecraft (2009)](#minecraft-2009)
     * [NieR Re[in]carnation (2021)](#nier-reincarnation-2021)
     * [osu! (2007)](#osu-2007)
@@ -81,8 +80,8 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed and published by Lowiro.
 
-* 🟥 [Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) `Python/MIT`
-* 🟩 [Arcaea MoliPatch](https://github.com/Moli13337/Arcaea-6.15.0c) `Python/GPL-3.0`
+* 🟩 [Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) `Python/MIT`
+    * 🟩 [Notable fork](https://github.com/Moli13337/Arcaea-6.15.0c)[^1] `Python/GPL-3.0`
 
 ---
 
@@ -91,7 +90,8 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by Hypergryph. Published by Hypergryph in China, Gryphline in Taiwan, and Yostar worldwide.
 
-* 🟥 [OpenDoctoratePy](https://github.com/jiellll1219/OpenDoctoratePy-EX-Public) `Python/GPL-3.0`
+* 🟥 [DoctoratePy](https://github.com/nonobject14514/DoctoratePy) `Python/ARR`
+    * 🟩 [OpenDoctoratePy-EX](https://dc.jiellll1219.qzz.io/jiellll1219/OpenDoctoratePy-EX-Public/) `Python/GPL-3.0`
 * 🟩 [OpenBachelorS](https://github.com/pfyy/OpenBachelorS) `Python/ARR`
 
 ---
@@ -101,8 +101,7 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by Hypergryph. Published by Hypergryph in China, Ariel in Taiwan, Hong Kong and Macau, and Gryphline worldwide.
 
-* 🟥 [S](https://git.xeondev.com/LR/S) `Zig/AGPL-3.0`
-* 🟩 [perlica-rs](https://github.com/Yoshk4e/perlica-rs) `Rust/AGPL-3.0`
+* 🟩 [perlica-rs](https://github.com/Yoshk4e/perlica-rs)[^2] `Rust/AGPL-3.0`
 
 ---
 
@@ -112,18 +111,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide.
 
 * 🟥 [Belfast](https://github.com/ggmolly/belfast) `Go/GPL-3.0`
-* 🟩 [CheshireLane](https://github.com/Irminsul-dev/CheshireLane9) `Rust/AGPL-3.0`
-* 🟩 [Azurlane-9.7.205](https://github.com/Moli13337/Azurlane-9.7.205) `Kotlin/GPL-3.0`
-
----
-
-### Azur Promilia (2026)
-
-> [!NOTE]
-> Developed by Manjuu. Published by Yostar and Nexon. This game has not started official service yet.
-
-* 🟥 [AzurPromiliaPS](https://git.teamstardust.org/AzurPromilia/AzurPromiliaPS) `C#/ARR`
-* 🟥 [Zetsa](https://git.xeondev.com/zetsa/zetsa) `Zig/AGPL-3.0`
+* 🟩 [Azurlane-9.7.205](https://github.com/Moli13337/Azurlane-9.7.205)[^3] `Kotlin/ARR`
 
 ---
 
@@ -132,7 +120,6 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by Nexon Games/MX Studio. Published by Yostar in China and Japan, and Nexon worldwide.
 
-* 🟥 [Atrahasis (archived)](https://archive.org/details/Atrahasis) `C#/ARR`
 * 🟥 [BaPs](https://github.com/gucooing/BaPs) `Go/ARR`
 
 ---
@@ -151,7 +138,7 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed and published by Studiobside. This game had reached End of Service since August 2026.
 
-* 🟩 [Revivalside](https://github.com/MadlyMoe/RevivalSide) `Javascript`
+* 🟩 [Revivalside](https://github.com/MadlyMoe/RevivalSide) `JavaScript/Custom`
 
 ---
 
@@ -171,7 +158,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Battlestate Games.
 
 * 🟥 [Single Player Tarkov](https://github.com/sp-tarkov/server) `TypeScript/NCSA`
-    * 🟩 [C# Rewrite](https://github.com/sp-tarkov/server-csharp) `C#/CC-BY-NC-SA-4.0`
+    * 🟥 [C# Rewrite](https://github.com/sp-tarkov/server-csharp) `C#/CC-BY-NC-SA-4.0`
 
 ---
 
@@ -191,7 +178,7 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) `Java/AGPL-3.0`
     * 🟩 [AGS-GC](https://github.com/Anime-Game-Servers/AGS-GC)
-    * 🟥 [LunaGC](https://github.com/pmagixc/LunaGC)
+    * 🟩 [LunaGC](https://github.com/girluh/LunaGC)
 * 🟩 [KazusaGI_cb2](https://github.com/Hiro420/KazusaGI_cb2) `C#/MIT`
 * 🟥 [hk4e-go](https://github.com/Kei-Luna/hk4e-go) `Go/Apache-2.0`
 
@@ -224,12 +211,9 @@ Different server implementations will be categorized by the games that they're u
 * 🟥 [DanhengServer](https://github.com/EggLinks/DanhengServer-OpenSource) `C#/AGPL-3.0` ([available fork](https://github.com/DB-Sky/DanhengServer-OpenSource))
     * 🟥 [HyacineDH-3.8](https://github.com/DBKAHHK/HyacineDH-3.8)
     * 🟥 [HyacineDH-Core](https://github.com/DBKAHHK/HyacineDH-Core)
-    * 🟥 [March7thHoney](https://github.com/Mar7thLover/March7thHoney-OpenSource)
-* 🟩 [KazusaHSR_0.56](https://github.com/Hiro420/KazusaHSR_0.56) `C#/AGPL-3.0`
-* 🟥 [Eileen-SR](https://git.xeondev.com/eileen-sr/eileen-sr) `Zig/ARR`
+    * 🟥 [March7thHoney](https://github.com/Mar7thLover/March7thHoney-OpenSource)[^4]
+* 🟥 [KazusaHSR_0.56](https://github.com/Hiro420/KazusaHSR_0.56) `C#/AGPL-3.0`
 * 🟥 [LunarCore](https://github.com/Melledy/LunarCore) `Java/AGPL-3.0`
-* 🟥 [YaoGuangSR](https://git.xeondev.com/HonkaiSlopRail/yaoguang-sr) `Zig/ARR`
-    * 🟩 [EvanesciaSR](https://git.xeondev.com/HonkaiSlopRail/evanescia-sr)
 
 ---
 
@@ -238,25 +222,16 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed and published by Project Moon.
 
-* 🟩 [OpenLethe](https://github.com/LEAGUE-OF-NINE/OpenLethe) `C#`
+* 🟩 [OpenLethe](https://github.com/LEAGUE-OF-NINE/OpenLethe) `C#/ARR`
 
 ---
 
 ### Love Live! School idol festival 2 MIRACLE LIVE! (2024)
 
 > [!NOTE]
-> Developed by GREE and published by Bushiroad. Reached End of Service since May 2024.
+> Developed by GREE and published by Bushiroad. This game had reached End of Service since May 2024.
 
-* 🟩 [ew](https://github.com/ethanaobrien/ew) `Rust`
-
----
-
-### Mahjong Soul (2018)
-
-> [!NOTE]
-> Developed by Cat Food Studio and published by Cat Food Studio(CN)/Yostar(Global).
-
-* 🟩 [MahjongSoul-4.0.26](https://github.com/Moli13337/MahjongSoul-4.0.26) `Typescript/C/Python`
+* 🟩 [ew](https://github.com/ethanaobrien/ew) `Rust/GPL-3.0`
 
 ---
 
@@ -266,8 +241,9 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Mojang Studios.
 
 * 🟩 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) `Rust/MIT`
+* 🟩 [SteelMC](https://github.com/Steel-Foundation/SteelMC) `Rust/AGPL-3.0`
 * 🟩 [FerrumC](https://github.com/ferrumc-rs/ferrumc) `Rust/MIT`
-* 🟩 [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) `PHP/LGPL-3.0`
+* 🟥 [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) `PHP/LGPL-3.0`
 
 ---
 
@@ -328,7 +304,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Bluepoch.
 
 * 🟥 [sonetto-rs](https://github.com/Yoshk4e/sonetto-rs) `Rust/ARR`
-* 🟩 [enigma](https://github.com/yoncodes/enigma) `Rust`
+* 🟩 [enigma](https://github.com/yoncodes/enigma) `Rust/ARR`
 
 ---
 
@@ -430,3 +406,8 @@ If one or more projects hold enough significance to warrant their addition despi
 When adding new entries, please refer to how existing ones are written to ensure consistency and accuracy.
 
 If you have any questions, feel free to [create an issue](https://github.com/fishiatee/awesome-privateserver/issues/new). And once you got something neat going on, [open a pull request](https://github.com/fishiatee/awesome-privateserver/compare)!
+
+[^1]: The fork was re-licensed to GPLv3. This is legally dubious.
+[^2]: For Technical Alpha client only.
+[^3]: The project is licensed under GPL-3.0 according to the README, however the LICENSE file is not present.
+[^4]: Source code is no longer available for future versions.
