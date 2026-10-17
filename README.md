@@ -149,7 +149,7 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed and published by Studiobside. This game had reached End of Service since August 2026.
 
-* 🟩 [Revivalside](https://github.com/MadlyMoe/RevivalSide) `JavaScript/Custom`
+* 🟩 [Revivalside](https://github.com/ENDFI3LD/RevivalSide) `JavaScript/Custom`
 
 ---
 
@@ -220,7 +220,7 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by miHoYo. Published by miHoYo in China, Nijigen Games in Taiwan, Hong Kong and Macau, 3T Online in Vietnam, and HoYoverse worldwide.
 
-* 🟥 [DanhengServer](https://github.com/EggLinks/DanhengServer-OpenSource) `C#/AGPL-3.0` ([available fork](https://github.com/DB-Sky/DanhengServer-OpenSource))
+* 🟩 [DanhengServer](https://github.com/DB-Sky/DanhengServer-OpenSource) `C#/AGPL-3.0`
     * 🟥 [HyacineDH-3.8](https://github.com/DBKAHHK/HyacineDH-3.8)
     * 🟥 [HyacineDH-Core](https://github.com/DBKAHHK/HyacineDH-Core)
     * 🟥 [March7thHoney](https://github.com/Mar7thLover/March7thHoney-OpenSource)[^4]
@@ -346,7 +346,6 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [Wicked Waifus](https://git.xeondev.com/wickedwaifus/wicked-waifus-rs) `Rust/AGPL-3.0`
 * 🟩 [Zigrika](https://git.xeondev.com/WavyRooms/zigrika) `Zig/ARR`
-    * 🟩 [Noteworthy fork](https://git.xeondev.com/TheOrangeBee/zigrika-stuffthatsnotsmart)
 
 ---
 
