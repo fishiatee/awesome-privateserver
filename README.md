@@ -23,7 +23,6 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Azur Lane (2017)](#azur-lane-2017)
     * [Blue Archive (2021)](#blue-archive-2021)
     * [Command & Conquer: Red Alert (1996)](#command--conquer-red-alert-1996)
-    * [Counter:Side (2020)](#counterside-2020)
     * [Dragalia Lost (2018)](#dragalia-lost-2018)
     * [Escape from Tarkov (2025)](#escape-from-tarkov-2025)
     * [Goddess of Victory: Nikke (2022)](#goddess-of-victory-nikke-2022)
@@ -141,15 +140,6 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Westwood Studios (now Electronic Arts).
 
 * 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) `C#/GPL-3.0`
-
----
-
-### Counter:Side (2020)
-
-> [!NOTE]
-> Developed and published by Studiobside. This game had reached End of Service since August 2026.
-
-* 🟩 [Revivalside](https://github.com/ENDFI3LD/RevivalSide) `JavaScript/Custom`
 
 ---
 
